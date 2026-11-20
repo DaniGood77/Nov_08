@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "react-spinner": "^0.2.7",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
